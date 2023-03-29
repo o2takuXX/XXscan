@@ -1,2 +1,2 @@
 # XXscan
-go新生练习 web指纹识别工具
+go新手练习 web指纹识别工具
